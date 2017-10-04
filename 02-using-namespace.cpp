@@ -1,3 +1,6 @@
+// Tutorials are coded by Musa Atlıhan with the help of Udacity C++ lessons.
+// Credits https://www.udacity.com
+
 // Use namespace in order to get rid of writing `std` multiple times.
 #include <iostream>
 
