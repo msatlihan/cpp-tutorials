@@ -9,7 +9,6 @@ int main()
 {
     int my_variable = 42;
 
-    cout << "Printing strings, numbers and variables.\n";
-    cout << 42;
-    cout << my_variable;
+    cout<<"Printing strings, numbers and variables.\n"<<
+    "The integer is "<<42<<" And the variable is "<<my_variable<<".\n";
 }
