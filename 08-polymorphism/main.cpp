@@ -63,6 +63,9 @@ int main()
     shark2->swim();
     shark.swim();
     clownfish.swim();
+
+    delete fish; //every 'new' must have a delete
+    delete shark2; //every 'new' must have a delete
 }
 
 // Also there is pure virtual functions, these are like abstract
