@@ -11,7 +11,7 @@ public:
     }
     //virtual void eat() = 0; // this is a pure virtual function, if i declare this
     // i won't be able to create instance from Fish class (like abstract classes in java)
-    // and i have add eat functions for each inhereted classes.
+    // and i have to add eat functions for each inhereted classes.
 };
 
 class Shark : public Fish
